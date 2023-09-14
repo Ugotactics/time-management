@@ -1,0 +1,8 @@
+user2 = [{"task1": "Reading Engineering math", "time needed": 30,
+          "sub-time needed": 4, "importance": 8, "urgency": 8,
+          "restrictions": "prayer by 1pm, 3pm, 6pm and 5am"},
+         {"task2": "Learn Arabic", "time needed": 365, "sub-time needed": 1,
+         "restrictions": "prayer by 1pm, 3pm, 6pm and 5am", "importance": 7, "urgency": 5},
+         {"task3": "Do yoga", "time needed": 365, "sub-time needed": 1,
+          "restrictions": "prayer by 1pm, 3pm, 6pm and 5am", "importance": 7, "urgency": 6}
+]
